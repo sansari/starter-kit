@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>7C3C43F1-BA3A-4ED5-9932-18A02A117777</string>
+	<key>IDESourceControlProjectName</key>
+	<string>starter-kit</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>254675E3F06345763A161B7E940B001B7C69D9B2</key>
+		<string>https://github.com/sansari/starter-kit.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>starter-kit.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>254675E3F06345763A161B7E940B001B7C69D9B2</key>
+		<string>..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/sansari/starter-kit.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>254675E3F06345763A161B7E940B001B7C69D9B2</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>254675E3F06345763A161B7E940B001B7C69D9B2</string>
+			<key>IDESourceControlWCCName</key>
+			<string>starter-kit</string>
+		</dict>
+	</array>
+</dict>
+</plist>

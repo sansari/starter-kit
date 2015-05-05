@@ -10,4 +10,6 @@
 
 @interface HomeController : UIViewController
 
+@property (strong, nonatomic) UIView* layerView;
+
 @end

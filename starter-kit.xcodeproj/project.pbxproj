@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		2D81B6561AE1C01F00D6D351 /* QuartzCore.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 2D81B6551AE1C01F00D6D351 /* QuartzCore.framework */; };
 		2DE263701ADB7CD500434561 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 2DE2636F1ADB7CD500434561 /* main.m */; };
 		2DE263731ADB7CD500434561 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 2DE263721ADB7CD500434561 /* AppDelegate.m */; };
 		2DE2637B1ADB7CD500434561 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 2DE2637A1ADB7CD500434561 /* Images.xcassets */; };
@@ -29,6 +30,7 @@
 
 /* Begin PBXFileReference section */
 		2D6C066F1ADB80BB000E8025 /* PrefixHeader.pch */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = PrefixHeader.pch; sourceTree = "<group>"; };
+		2D81B6551AE1C01F00D6D351 /* QuartzCore.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = QuartzCore.framework; path = System/Library/Frameworks/QuartzCore.framework; sourceTree = SDKROOT; };
 		2DE2636A1ADB7CD500434561 /* starter-kit.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "starter-kit.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		2DE2636E1ADB7CD500434561 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		2DE2636F1ADB7CD500434561 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
@@ -52,6 +54,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				2D81B6561AE1C01F00D6D351 /* QuartzCore.framework in Frameworks */,
 				FCA5FCD4D8754EC18FB17A43 /* libPods.a in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -131,6 +134,7 @@
 		60001F6223CF78A9A3964E82 /* Frameworks */ = {
 			isa = PBXGroup;
 			children = (
+				2D81B6551AE1C01F00D6D351 /* QuartzCore.framework */,
 				B96D66B2D9297B7731BBCC99 /* libPods.a */,
 			);
 			name = Frameworks;
